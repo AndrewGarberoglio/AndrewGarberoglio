@@ -25,3 +25,16 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 ## Certifications
 
 <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/Training_Badges_LFCI-300x300.png" height="60" alt="LFCA: Linux Foundation Certified IT Associate"  /> <img src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png" height="60" alt="KCNA: Kubernetes and Cloud Native Associate"  /> <img src="https://images.credly.com/size/340x340/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="60" alt="Professional Cloud Database Engineer Certification"  /> <img src="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" height="60" alt="Professional Machine Learning Engineer Certification"  /> <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" height="60" alt="Professional Cloud Architect Certification"  /> <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="60" alt="Associate Cloud Engineer Certification"  /> <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="60" alt="Cloud Digital Leader Certification"  /><img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="60" alt="HashiCorp Certified: Terraform Associate (003)"  /> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="60" alt="Microsoft Certified: Azure Fundamentals"  />
+
+------
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrew-garberoglio/" target="_blank">
+    <img src="./assets/LinkedInLogo.svg" width="52" height="40" alt="LinkedIn Logo"/>
+  </a>
+  <a href="mailto:andrew.garberoglio@gmail.com">
+    <img src="./assets/GmailLogo.svg" width="52" height="40" alt="Gmail Logo"/>
+  </a>
+</p>
