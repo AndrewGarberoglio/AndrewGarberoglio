@@ -18,4 +18,4 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 
 ## Technical Skills
 
-<img src="https://devicon-website.vercel.app/api/ansible/original.svg" height="30" alt="Ansible"  />
+<img src="https://devicon-website.vercel.app/api/ansible/original.svg" height="30" alt="Ansible"  /> <img src="https://devicon-website.vercel.app/api/apache/original.svg" height="30" alt="Apache"  />
