@@ -123,7 +123,7 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 ## Certifications
 
 <div align="left">
-  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/Training_Badges_LFCI-300x300.png" height="90" alt="LFCA: Linux Foundation Certified IT Associate"  />
+  <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/Training_Badges_LFCI-300x300.png" height="120" alt="LFCA: Linux Foundation Certified IT Associate"  />
   <img width="12" />
   <img src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png" height="120" alt="KCNA: Kubernetes and Cloud Native Associate"  />
   <img width="12" />
