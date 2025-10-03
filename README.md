@@ -35,7 +35,11 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/bash.svg" height="30" alt="Bash"  />
   <img width="12" />
+  <img src="./assets/blue-prism.svg" height="30" alt="Blue Prism"  />
+  <img width="12" />
   <img src="./assets/c.svg" height="30" alt="C"  />
+  <img width="12" />
+  <img src="./assets/ProgressChef.svg" height="30" alt="Chef"  />
   <img width="12" />
   <img src="./assets/cmake.svg" height="30" alt="Cmake"  />
   <img width="12" />
@@ -119,17 +123,23 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/perl.svg" height="30" alt="Perl"  />
   <img width="12" />
+  <img src="./assets/PfSense.svg" height="30" alt="PfSense"  />
+  <img width="12" />
   <img src="./assets/podman.svg" height="30" alt="Podman"  />
   <img width="12" />
   <img src="./assets/postgreSQL.svg" height="30" alt="PostgreSQL"  />
   <img width="12" />
   <img src="./assets/powershell.svg" height="30" alt="PowerShell"  />
   <img width="12" />
+  <img src="./assets/Perforce-Puppet.svg" height="30" alt="Puppet"  />
+  <img width="12" />
   <img src="./assets/puTTY.svg" height="30" alt="PuTTY"  />
   <img width="12" />
   <img src="./assets/python.svg" height="30" alt="Python"  />
   <img width="12" />
   <img src="./assets/pytorch.svg" height="30" alt="PyTorch"  />
+  <img width="12" />
+  <img src="./assets/rancher.svg" height="30" alt="Rancher"  />
   <img width="12" />
   <img src="./assets/raspberrypi.svg" height="30" alt="Raspberry Pi"  />
   <img width="12" />
