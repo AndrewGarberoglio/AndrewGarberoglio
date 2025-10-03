@@ -93,8 +93,6 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/jira.svg" height="30" alt="Jira"  />
   <img width="12" />
-  <img src="./assets/julia.svg" height="30" alt="Julia"  />
-  <img width="12" />
   <img src="./assets/jupyter.svg" height="30" alt="Jupytr"  />
   <img width="12" />
   <img src="./assets/k3s.svg" height="30" alt="K3s"  />
