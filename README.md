@@ -135,7 +135,7 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/redhat.svg" height="30" alt="Red Hat Enterprise Linux"  />
   <img width="12" />
-  <img src="./assets/regex.svg" height="30" alt="Regular Expressions"  />
+  <img src="./assets/regexp.svg" height="30" alt="Regular Expressions"  />
   <img width="12" />
   <img src="./assets/ruby.svg" height="30" alt="Ruby"  />
   <img width="12" />
