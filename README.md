@@ -19,11 +19,17 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 ## Technical Skills
 
 <div align="left">
+  <img src="./assets/alpinelinux.svg" height="30" alt="Alpine Linux"  />
+  <img width="12" />
   <img src="./assets/ansible.svg" height="30" alt="Ansible"  />
   <img width="12" />
   <img src="./assets/apache.svg" height="30" alt="Apache"  />
   <img width="12" />
   <img src="./assets/apple.svg" height="30" alt="Apple"  />
+  <img width="12" />
+  <img src="./assets/arch-linux.svg" height="30" alt="Arch Linux"  />
+  <img width="12" />
+  <img src="./assets/aarch64.svg" height="30" alt="ARM Assembly"  />
   <img width="12" />
   <img src="./assets/azure.svg" height="30" alt="Azure"  />
   <img width="12" />
@@ -43,6 +49,8 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/debian.svg" height="30" alt="Debian"  />
   <img width="12" />
+  <img src="./assets/devpod.svg" height="30" alt="Devpod"  />
+  <img width="12" />
   <img src="./assets/docker.svg" height="30" alt="Docker"  />
   <img width="12" />
   <img src="./assets/dotnet.svg" height="30" alt="DotNet"  />
@@ -50,6 +58,8 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img src="./assets/dotnetcore.svg" height="30" alt="DotNet Core"  />
   <img width="12" />
   <img src="./assets/fedora.svg" height="30" alt="Fedora"  />
+  <img width="12" />
+  <img src="./assets/freebsd.svg" height="30" alt="FreeBSD"  />
   <img width="12" />
   <img src="./assets/git.svg" height="30" alt="Git"  />
   <img width="12" />
@@ -73,6 +83,8 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/javascript.svg" height="30" alt="Javascript"  />
   <img width="12" />
+  <img src="./assets/JBoss.svg" height="30" alt="JBoss"  />
+  <img width="12" />
   <img src="./assets/jenkins.svg" height="30" alt="Jenkins"  />
   <img width="12" />
   <img src="./assets/jira.svg" height="30" alt="Jira"  />
@@ -95,9 +107,13 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/mysql.svg" height="30" alt="MySQL"  />
   <img width="12" />
+  <img src="./assets/neovim.svg" height="30" alt="Neovim"  />
+    <img width="12" />
   <img src="./assets/nginx.svg" height="30" alt="Nginx"  />
   <img width="12" />
   <img src="./assets/nixos.svg" height="30" alt="NixOS"  />
+  <img width="12" />
+  <img src="./assets/nushell.png" height="30" alt="Nushell"  />
   <img width="12" />
   <img src="./assets/opensuse.svg" height="30" alt="OpenSUSE"  />
   <img width="12" />
@@ -106,6 +122,8 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img src="./assets/podman.svg" height="30" alt="Podman"  />
   <img width="12" />
   <img src="./assets/postgreSQL.svg" height="30" alt="PostgreSQL"  />
+  <img width="12" />
+  <img src="./assets/powershell.svg" height="30" alt="PowerShell"  />
   <img width="12" />
   <img src="./assets/puTTY.svg" height="30" alt="PuTTY"  />
   <img width="12" />
@@ -116,6 +134,8 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img src="./assets/raspberrypi.svg" height="30" alt="Raspberry Pi"  />
   <img width="12" />
   <img src="./assets/redhat.svg" height="30" alt="Red Hat Enterprise Linux"  />
+  <img width="12" />
+  <img src="./assets/regex.svg" height="30" alt="Regular Expressions"  />
   <img width="12" />
   <img src="./assets/ruby.svg" height="30" alt="Ruby"  />
   <img width="12" />
@@ -137,11 +157,21 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/vim.svg" height="30" alt="Vim"  />
   <img width="12" />
+  <img src="./assets/visual-basic.png" height="30" alt="Visual Basic"  />
+  <img width="12" />
   <img src="./assets/visualstudio.svg" height="30" alt="Visual Studio"  />
   <img width="12" />
   <img src="./assets/vscode.svg" height="30" alt="Visual Studio Code"  />
   <img width="12" />
+  <img src="./assets/weblogic.svg" height="30" alt="WebLogic"  />
+  <img width="12" />
+  <img src="./assets/websphere.svg" height="30" alt="WebSphere"  />
+  <img width="12" />
+  <img src="./assets/wildfly.svg" height="30" alt="WildFly"  />
+  <img width="12" />
   <img src="./assets/windows.svg" height="30" alt="Windows"  />
+  <img width="12" />
+  <img src="./assets/zsh.svg" height="30" alt="Zsh"  />
 </div>
 
 ------
