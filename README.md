@@ -49,7 +49,7 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/debian.svg" height="30" alt="Debian"  />
   <img width="12" />
-  <img src="./assets/devpod.svg" height="30" alt="Devpod"  />
+  <img src="./assets/devpod.png" height="30" alt="Devpod"  />
   <img width="12" />
   <img src="./assets/docker.svg" height="30" alt="Docker"  />
   <img width="12" />
