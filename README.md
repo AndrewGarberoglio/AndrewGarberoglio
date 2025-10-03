@@ -19,103 +19,129 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 ## Technical Skills
 
 <div align="left">
-  <img src="https://devicon-website.vercel.app/api/ansible/original.svg" height="30" alt="Ansible"  />
+  <img src="./assets/ansible.svg" height="30" alt="Ansible"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/apache/original.svg" height="30" alt="Apache"  />
+  <img src="./assets/apache.svg" height="30" alt="Apache"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/apple/original.svg" height="30" alt="Apple"  />
+  <img src="./assets/apple.svg" height="30" alt="Apple"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/azure/original.svg" height="30" alt="Azure"  />
+  <img src="./assets/azure.svg" height="30" alt="Azure"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/bash/original.svg" height="30" alt="Bash"  />
+  <img src="./assets/bash.svg" height="30" alt="Bash"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/confluence/original.svg" height="30" alt="Confluence"  />
+  <img src="./assets/c.svg" height="30" alt="C"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="30" alt="CSharp"  />
+  <img src="./assets/cmake.svg" height="30" alt="Cmake"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/cucumber/plain.svg" height="30" alt="Cucumber"  />
+  <img src="./assets/confluence.svg" height="30" alt="Confluence"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/debian/original.svg" height="30" alt="Debian"  />
+  <img src="./assets/cplusplus.svg" height="30" alt="C++"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="30" alt="Docker"  />
+  <img src="./assets/csharp.svg" height="30" alt="C#"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" height="30" alt="DotNet"  />
+  <img src="./assets/cucumber.svg" height="30" alt="Cucumber"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="30" alt="DotNet Core"  />
+  <img src="./assets/debian.svg" height="30" alt="Debian"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/fedora/original.svg" height="30" alt="Fedora"  />
+  <img src="./assets/docker.svg" height="30" alt="Docker"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="30" alt="Git"  />
+  <img src="./assets/dotnet.svg" height="30" alt="DotNet"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/github/original.svg" height="30" alt="GitHub"  />
+  <img src="./assets/dotnetcore.svg" height="30" alt="DotNet Core"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="30" alt="GitLab"  />
+  <img src="./assets/fedora.svg" height="30" alt="Fedora"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/go/original.svg" height="30" alt="Go"  />
+  <img src="./assets/git.svg" height="30" alt="Git"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/googlecloud/original.svg" height="30" alt="Google Cloud"  />
+  <img src="./assets/github.svg" height="30" alt="GitHub"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/gradle/plain.svg" height="30" alt="Gradle"  />
+  <img src="./assets/gitlab.svg" height="30" alt="GitLab"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/groovy/original.svg" height="30" alt="Groovy"  />
+  <img src="./assets/go.svg" height="30" alt="Go"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/intellij/original.svg" height="30" alt="IntelliJ"  />
+  <img src="./assets/googlecloud.svg" height="30" alt="Google Cloud"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/java/original.svg" height="30" alt="Java"  />
+  <img src="./assets/gradle.svg" height="30" alt="Gradle"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jenkins/original.svg" height="30" alt="Jenkins"  />
+  <img src="./assets/graphql.svg" height="30" alt="GraphQL"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jira/original.svg" height="30" alt="Jira"  />
+  <img src="./assets/groovy.svg" height="30" alt="Groovy"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" height="30" alt="Kubernetes"  />
+  <img src="./assets/intellij.svg" height="30" alt="IntelliJ"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="30" alt="Linux"  />
+  <img src="./assets/java.svg" height="30" alt="Java"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/markdown/original.svg" height="30" alt="Markdown"  />
+  <img src="./assets/javascript.svg" height="30" alt="Javascript"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg" height="30" alt="Microsoft SQL Server"  />
+  <img src="./assets/jenkins.svg" height="30" alt="Jenkins"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/msdos/original.svg" height="30" alt="MS DOS"  />
+  <img src="./assets/jira.svg" height="30" alt="Jira"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" height="30" alt="MySQL"  />
+  <img src="./assets/julia.svg" height="30" alt="Julia"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nginx/original.svg" height="30" alt="Nginx"  />
+  <img src="./assets/jupyter.svg" height="30" alt="Jupytr"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nixos/original.svg" height="30" alt="nixOS"  />
+  <img src="./assets/k3s.svg" height="30" alt="K3s"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/opensuse/original.svg" height="30" alt="OpenSUSE"  />
+  <img src="./assets/kubernetes.svg" height="30" alt="Kubernetes"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/perl/original.svg" height="30" alt="Perl"  />
+  <img src="./assets/linux.svg" height="30" alt="Linux"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" height="30" alt="PostgreSQL"  />
+  <img src="./assets/markdown.svg" height="30" alt="Markdown"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="30" alt="Python"  />
+  <img src="./assets/sqlserver.svg" height="30" alt="Microsoft SQL Server"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="30" alt="Raspberry Pi"  />
+  <img src="./assets/msdos.svg" height="30" alt="MS DOS"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/redhat/original.svg" height="30" alt="RedHat Enterprise Linux"  />
+  <img src="./assets/mysql.svg" height="30" alt="MySQL"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ruby/original.svg" height="30" alt="Ruby"  />
+  <img src="./assets/nginx.svg" height="30" alt="Nginx"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" height="30" alt="SQLite"  />
+  <img src="./assets/nixos.svg" height="30" alt="NixOS"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ssh/original.svg" height="30" alt="SSH"  />
+  <img src="./assets/opensuse.svg" height="30" alt="OpenSUSE"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/terraform/original.svg" height="30" alt="Terraform"  />
+  <img src="./assets/perl.svg" height="30" alt="Perl"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/tomcat/original.svg" height="30" alt="Tomcat"  />
+  <img src="./assets/podman.svg" height="30" alt="Podman"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/travis/plain.svg" height="30" alt="Travis CI"  />
+  <img src="./assets/postgreSQL.svg" height="30" alt="PostgreSQL"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="30" alt="Ubuntu"  />
+  <img src="./assets/puTTY.svg" height="30" alt="PuTTY"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/unix/original.svg" height="30" alt="UNIX"  />
+  <img src="./assets/python.svg" height="30" alt="Python"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/vim/original.svg" height="30" alt="Vim"  />
+  <img src="./assets/pytorch.svg" height="30" alt="PyTorch"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/visualstudio/plain.svg" height="30" alt="Visual Studio"  />
+  <img src="./assets/raspberrypi.svg" height="30" alt="Raspberry Pi"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="30" alt="Visual Studio Code"  />
+  <img src="./assets/redhat.svg" height="30" alt="Red Hat Enterprise Linux"  />
+  <img width="12" />
+  <img src="./assets/ruby.svg" height="30" alt="Ruby"  />
+  <img width="12" />
+  <img src="./assets/SQLite.svg" height="30" alt="SQLite"  />
+  <img width="12" />
+  <img src="./assets/ssh.svg" height="30" alt="SSH"  />
+  <img width="12" />
+  <img src="./assets/tensorflow.svg" height="30" alt="TensorFlow"  />
+  <img width="12" />
+  <img src="./assets/terraform.svg" height="30" alt="Terraform"  />
+  <img width="12" />
+  <img src="./assets/tomcat.svg" height="30" alt="Tomcat"  />
+  <img width="12" />
+  <img src="./assets/travis.svg" height="30" alt="Travis CI"  />
+  <img width="12" />
+  <img src="./assets/ubuntu.svg" height="30" alt="Ubuntu"  />
+  <img width="12" />
+  <img src="./assets/unix.svg" height="30" alt="UNIX"  />
+  <img width="12" />
+  <img src="./assets/vim.svg" height="30" alt="Vim"  />
+  <img width="12" />
+  <img src="./assets/visualstudio.svg" height="30" alt="Visual Studio"  />
+  <img width="12" />
+  <img src="./assets/vscode.svg" height="30" alt="Visual Studio Code"  />
+  <img width="12" />
+  <img src="./assets/windows.svg" height="30" alt="Windows"  />
 </div>
 
 ------
