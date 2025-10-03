@@ -16,7 +16,7 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
 
 ------
 
-## Technical Skills
+## Tools and languages
 
 <div align="left">
   <img src="./assets/alpinelinux.svg" height="30" alt="Alpine Linux"  />
@@ -181,6 +181,7 @@ As a manager, I grow the bench. My staff are regularly sought after as internal 
   <img width="12" />
   <img src="./assets/zsh.svg" height="30" alt="Zsh"  />
 </div>
+
 
 ------
 
