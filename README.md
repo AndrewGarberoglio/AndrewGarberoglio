@@ -10,7 +10,7 @@ Deep experience with development and operations, monitoring, provisioning, netwo
 
 Successfully telecommuting for over 20 years.
 
-As an individual contributor I have invented new capabilities for well established tech and have, on the odd occasion, bridged technical gaps thought to be impossible.
+As an individual contributor I have invented new capabilities for well established tech and have, on the odd occasion, bridged technical gaps commonly thought to be impossible.
 
 As a manager, I grow the bench. My staff are regularly sought after as internal hires.
 
